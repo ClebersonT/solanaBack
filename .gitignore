@@ -1,3 +1,8 @@
 /*-dump.txt
 /*.so
-/target/
+.idea
+/target
+/nodejs/Cargo.lock
+/tests/Cargo.lock
+.DS_Store
+node_modules
