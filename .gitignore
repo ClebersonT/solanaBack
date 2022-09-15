@@ -6,3 +6,5 @@
 /tests/Cargo.lock
 .DS_Store
 node_modules
+
+test-ledger/
